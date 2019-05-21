@@ -1,4 +1,4 @@
-#Event Plus: Personalized Recommendation Engine for Events
+# Event Plus: Personalized Recommendation Engine for Events
 
 Skills: Java Spring, MySQL, AWS, RestAPI, Javascript, JMeter
 • Designed and implemented an interactive web page for users to search events and purchase tickets (HTML/CSS/JavaScript)
